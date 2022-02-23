@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations concerning the African-Companies petition</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34347</idno>
+            <idno type="STC">Wing C5908A</idno>
+            <idno type="STC">ESTC R6813</idno>
+            <idno type="EEBO-CITATION">11894477</idno>
+            <idno type="OCLC">ocm 11894477</idno>
+            <idno type="VID">50542</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34347)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50542)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 23:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations concerning the African-Companies petition</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royal African Company.</term>
+               <term>Great Britain --  Commerce.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50542:1"/>
+            <!-- PDF PAGE 2 -->
+            <head>Conſiderations Concerning the <hi>African</hi>-Companies <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </head>
+            <p>THE <hi>African</hi> Company have Petition'd the Houſe of Commons, to have their Monopoly confirm'd by <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Parliament: or in their own words, that a Bill may be brought in, to ſettle that Trade according to <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>Charter. Concerning which Petition, and that whole Matter, theſe things (in behalf of the People of <hi>
+                  <gap reason="illegible: damage" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>land,</hi>) are Humbly offer'd to Conſideration.</p>
+            <p n="1">I. That all Engliſh Subjects have Right and Liberty to Trade to <hi>Africa,</hi> unleſs prohibited by Parliament.</p>
+            <p n="2">II. That of this Liberty they have been deprived, and from this Trade they have been forcibly excluded, without Authority of Parliament, for many Years. And on the account of Trading thither, they have been perſecuted and tormented with all Violence and Cruelty. Many have been robb'd of their Ships and Goods, divers have been impriſoned, and ſo<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> have loſt their Lives.</p>
+            <p n="3">III. Theſe things have been done by the <hi>African</hi> Company; by colour of an illegal Patent, which they call their C<gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ter. Which Company have carried on their Oppreſſions, with a high Hand, and in contempt and defiance of the I<gap reason="illegible: damage" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>
+            </p>
+            <p n="4">IV. If their Patent were legal, they would have no need of an Act of Parliament; for none would oppoſe a legal Pa<gap reason="illegible: damage" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>.</p>
+            <p n="5">V. The ingroſſing the <hi>African</hi> Trade by theſe Men, with the Excluſion of all others, is a perfect Monopoly to <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tents; and hath all the pernicious Effects of a Monopoly. Having been the ruin of Thouſands, with infinite Damage to the whole Kingdom. And two ſorts of People (but in whom the whole Kingdom is concerned) have ſuffered b<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his Monopoly in a more eſpecial manner; namely, the Woollen Manufacturers and the Plantations.</p>
+            <p n="6">VI. They have the ſole Selling and ſole Buying of all that comes from, or goes to the Countries within their Patent; which contain a Sea-Coaſt of ſix or ſeven thouſand Miles. All that buy of them, muſt give what they pleaſe to deman<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and all that ſell to them, muſt take what they pleaſe to give.</p>
+            <p n="7">VII. It muſt be confeſt, that theſe Gentlemen of the Company, are grown more reaſonable then they have been former<g ref="char:EOLhyphen"/>ly. For as for the very remote Countries toward the Caſe of Good Hope (which have neither Gold, nor good Negroes, nor any that is good;) they are now content, for quietneſs ſake, that the People of <hi>England</hi> be permitted to Trade to them. But the Trade to the Gold Coaſt, and other good Places, they think is too dainty a Morſel for ſuch Cattel, and is fit for none but Projectors.</p>
+            <p n="8">VIII. My Lord <hi>Coke</hi> tell us, that all Monopolies have ſpecious pretences of the Publick Good. And ſo has this. But it can be plainly made out, that their pretences are falſe and frivolous. Whereas the reaſon muſt be very ſtrong, and the matters very well proved and very evident, that ſhall induce a Houſe of Commons to ſet up a Monopoly; and to pre<g ref="char:EOLhyphen"/>judice the whole People of <hi>England</hi> whom they Repreſent, in favour and for the advantage of a few Men.</p>
+            <p n="9">IX. The <hi>African</hi> Company, during the late Reigns, was above the Law. But now the Law hath broke in upon them; and they have been Sued, and have paid great Damages, for Wrongs done by colour of their Patent. Nor dare they now commit the like Outrages; nor uſe their Fellow Subjects as Enemies, if they find them in the <hi>African</hi> Trade. So that their excluding Power being gone, their Monopoly muſt ſink and periſh. For the excluding Power is the life of Monopoly. Wherefore in this deſperate Caſe, they uſe a deſperate Remedy, and flie to the Parliament for help.</p>
+            <p n="10">X. This is the firſt Monopoly, that ever was brought to a Parliament to be confirm'd. Parliaments do not uſe to con<g ref="char:EOLhyphen"/>firm or countenance illegal Projects, but rather to puniſh the Projectors. But theſe Men have gone ſo long without Pun<g ref="char:EOLhyphen"/>iſhment, that now they pretend to favours.</p>
+            <p n="11">XI. Theſe men have exerciſed an illegal Authority for Thirty Years, and now they would have it made legal. If an Act of Parliament be neceſſary now, it was neceſſary Thirty Years ago; and why did not they get one then? Either they deſpair'd to get it, or they ſcorn'd to take it.</p>
+            <p n="12">XII. The <hi>Turkey</hi> Trade is properouſly carried on by a regulated Company, without a Joint-ſtock or Forts. And nothing hinders but that the <hi>African</hi> Trade might be carried on in like manner. Nay we Trade ſafely even with the Pirates of <hi>Algier, Tripoli,</hi> and <hi>Tunis,</hi> who are the worſt of Infidels. There is no Nation ſo Wicked, ſo Wild, and Barbarous; but that they will well-come and protect fair <hi>Traders</hi> that come to them; it being for their own benefit.</p>
+            <p n="13">XIII. But if Forts be found or thought neceſſary, they may be maintain'd without the odious Expedient of a Mono<g ref="char:EOLhyphen"/>poly. For a regulated Company may eaſily maintain them, by impoſitions upon Ships and Goods.</p>
+            <p n="14">XIV. The <hi>Eaſt-India</hi> Company hath ſome probable Grounds both, but for the Legality and for the Neceſſity of it. But this <hi>African</hi> Company hath none.</p>
+            <p n="15">XV. Were the Trade to <hi>Africa</hi> laid open, and Ships permitted to go, we ſhould certainly furniſh the <hi>Spaniards</hi> with Ne<g ref="char:EOLhyphen"/>groes for ready Money. Whereby both Nations would reap great advantage; the <hi>Spaniards</hi> by having the Negroes, and the People of <hi>England</hi> by having the Money.</p>
+            <p>Suppoſe ſome Men ſhould get a Patent to incloſe a Common: which accordingly they do incloſe, and hold it many years by ſtrong hand. But at laſt the Law breaks in upon them, and they can hold it no longer. Would a Parliament now confirm thoſe Men in their Uſurpation, if they ſhould have the confidence to ask it? Yet perhaps they might ſay, that they have been at great charge in improving the Land, and preſerving it from Inundations, and likewiſe in Building upon it (all which things are for the Publick Good;) and that they ſhall be great Sufferers, if their Incloſure be thrown <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pen. And perhaps they might offer, (as the <hi>African</hi> Company does now;) that the Commoners, ſince they are ſo trouble<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome, ſhall have ſome Out-Skirt of the Land that's good for little, they keeping the beſt and greateſt part themſelves. Let not this Suppoſition ſeem ſorrain or impertinent, for it comes near the preſent Caſe. 'Tis the ſame thing to ingroſ<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Trade, as to incloſe a Common.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
